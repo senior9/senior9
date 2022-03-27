@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://i.ibb.co/tM8V6DF/IMG20211231182723.jpg" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/tM8V6DF/IMG20211231182723.jpg" align="center" height="790" width="400" />
 </div>  
   
 
