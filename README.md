@@ -1,6 +1,29 @@
 
 
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h1 align="center">Hi 👋</h1>
+
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile!
+</div>
+
+
+<h3 align="center">
+<a href="https://cbp.io">Visit my personal homepage
+<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+</a>
+</h3>
+
+
+
 <h3 align="center">A passionate frontend developer,When I was very young I had a spiritual feeling working towards this device called computer. Ever since then, I have been addicted to computers all my life and from there I fell in love with this programming. It was from this love that the strong desire to be a programmer worked, and from that desire I can comfort myself by saying, "Yes, I can do something.", a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senior9&label=Profile%20views&color=0e75b6&style=flat" alt="senior9" /> </p>
