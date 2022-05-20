@@ -81,8 +81,18 @@ to my personal GitHub profile!
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senior9&show_icons=true&locale=en&layout=compact" alt="senior9" /></p>
+## ⚡ GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senior9&show_icons=true&locale=en" alt="senior9" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=senior9&show_icons=true&count_private=true&theme=gruvbox" /><hr/> <hr/> <hr/> <hr/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senior9&layout=compact&count_private=true&theme=gruvbox" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senior9&" alt="senior9" /></p>
+<hr/> <hr/> <hr/> <hr/> <hr/><hr/> <hr/> <hr/> <hr/> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=senior9&show_icons=true&count_private=true&theme=gruvbox" alt="senior9" /><hr/> <hr/> <hr/> <hr/> <hr/> <hr/> <hr/> <hr/> <hr/> <hr/> 
+
+
+
+
+
+
+
+
