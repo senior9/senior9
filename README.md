@@ -22,8 +22,8 @@
 - ⚡ Fun fact **I'm sleeping when the task is over dropping on me**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek--sikdar/)](https://www.linkedin.com/in/abhishek--sikdar/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ovi_sikdar/)](https://instagram.com/ovi_sikdar/)
+[![Linkedin Badge](https://img.shields.io/badge/-abhishek--sikdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek--sikdar/)](https://www.linkedin.com/in/abhishek--sikdar/)
+[![Instagram Badge](https://img.shields.io/badge/-ovi_sikdar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ovi_sikdar/)](https://instagram.com/ovi_sikdar/)
 
 
 
