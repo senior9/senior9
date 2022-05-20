@@ -1,10 +1,11 @@
 
 
-<h1 align="center">Hi 👋</h1>
-
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+  <div align="center" width="50">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
+  <div/>
 </div>
 
 <div align="center">
