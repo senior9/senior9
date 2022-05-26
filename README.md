@@ -38,7 +38,6 @@ Simplicity Is the Key Of My Success
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senior9" alt="senior9" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/legendary_all" target="blank"><img src="https://img.shields.io/twitter/follow/legendary_all?logo=twitter&style=for-the-badge" alt="legendary_all" /></a> </p>
 
 ## ⚡ 🏢 I'm currently working at **Worklife**
 ##  🚀 I use daily:
@@ -73,6 +72,8 @@ Simplicity Is the Key Of My Success
 [![Instagram Badge](https://img.shields.io/badge/-ovi_sikdar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ovi_sikdar/)](https://instagram.com/ovi_sikdar/)
   
  [![Facebook Badge](https://img.shields.io/badge/-abhishek.sikdarr-quepal?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/abhishek.sikdarr/)](https://www.facebook.com/abhishek.sikdarr/)
+  
+   [![Twitter Badge](https://img.shields.io/badge/-abhishek_senior-red?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/abhishek_senior)](https://twitter.com/abhishek_senior)
 
 ## ⚡ Technologies
 
