@@ -71,6 +71,8 @@ Simplicity Is the Key Of My Success
 
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek--sikdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek--sikdar/)](https://www.linkedin.com/in/abhishek--sikdar/)
 [![Instagram Badge](https://img.shields.io/badge/-ovi_sikdar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ovi_sikdar/)](https://instagram.com/ovi_sikdar/)
+  
+ [![Facebook Badge](https://img.shields.io/badge/-abhishek.sikdarr-quepal?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/abhishek.sikdarr/)](https://www.facebook.com/abhishek.sikdarr/)
 
 ## ⚡ Technologies
 
