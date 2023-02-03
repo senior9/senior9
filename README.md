@@ -17,7 +17,7 @@
 </div>
 
 <h3 align="center">
-<a href="https://www.linkedin.com/in/abhishek--sikdar/">Visit my personal homepage
+<a href="https://abhishek-portfolio-ecru.vercel.app/">Visit my personal homepage
 <img src="" alt="Visit homepage" align="center">
 </a>
 </h3>
