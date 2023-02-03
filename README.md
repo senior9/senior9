@@ -5,7 +5,7 @@
 
 
   <div align="center" width="50">
-<img src="https://i.ibb.co/SBtCGbj/animation-200-ldntyk3x.gif" href="https://github.com/senior9" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="https://i.ibb.co/rdFwSCF/animation-640-ldnuvqc3.gif" href="https://github.com/senior9" alt="CoDiNg RocKs"  width="550"/><br> 
   <div/>
 
 <div align="center">
