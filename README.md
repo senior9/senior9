@@ -18,7 +18,7 @@
 
 <h3 align="center">
 <a href="https://abhishek-portfolio-ecru.vercel.app/">Visit my personal homepage
-<img src="https://i.ibb.co/KVN5TVL/animation-200-ldntdr2o.gif" alt="Visit homepage" align="center">
+<img src="https://i.ibb.co/S0bkvyn/animation-200-ldntioh8.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
 
