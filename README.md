@@ -17,7 +17,7 @@
 </div>
 
 <h3 align="center">
-<a href="https://abhishek-portfolio-ecru.vercel.app/">Visit my personal homepage
+<a href="https://abhishek-portfolio-ecru.vercel.app/"> Portfolio
 <img src="https://i.ibb.co/S0bkvyn/animation-200-ldntioh8.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
