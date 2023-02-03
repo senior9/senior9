@@ -5,7 +5,7 @@
 
 
   <div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/senior9" alt="CoDiNg RocKs"  width="550"/><br> 
   <div/>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 <h3 align="center">
 <a href="https://www.linkedin.com/in/abhishek--sikdar/">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+<img src="" alt="Visit homepage" align="center">
 </a>
 </h3>
 
