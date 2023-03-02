@@ -27,7 +27,7 @@ Simplicity Is the Key Of My Success
   </b>
 </div>
 
-<h3 align="center">A passionate frontend developer,When I was very young I fell in love with this programming. It was from this love that the strong desire to be a programmer worked, and from that desire I can comfort myself by saying, "Yes, I can do something.", a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</h3>
+<h3 align="center">A passionate frontend developer,When I was very young I fell in love with this programming. It was from this love that the strong desire to be a programmer worked, and from that desire I can comfort myself by saying, "Yes, I can do something.", a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senior9&label=Profile%20views&color=0e75b6&style=flat" alt="senior9" /> </p>
 
