@@ -31,8 +31,9 @@ Simplicity Is the Key Of My Success
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senior9&label=Profile%20views&color=0e75b6&style=flat" alt="senior9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senior9" alt="senior9" /></a> </p>
-
+<p align="left"> <a href="https://github.com/senior9/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senior9&theme=dark_lover" alt="senior9" /></a> </p>
+  
+  
   [![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=senior9&theme=react-dark)](https://github.com/senior9/)
 
 ## ⚡ 🏢 I'm currently working at **Worklife**
