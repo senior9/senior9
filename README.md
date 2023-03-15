@@ -33,7 +33,7 @@ Simplicity Is the Key Of My Success
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senior9" alt="senior9" /></a> </p>
 
-  [![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=senior9&theme=react-dark)](https://github.com/senior9/github-readme-activity-graph)
+  [![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=senior9&theme=react-dark)](https://github.com/senior9/)
 
 ## ⚡ 🏢 I'm currently working at **Worklife**
 ##  🚀 I use daily:
