@@ -1,9 +1,9 @@
 
 
 <img src="Abhishek.gif" alt=""> </img>
-<h3 align="left">As an accomplished Full Stack Developer, I possess a wealth of knowledge in Full Stack Developer(MERN) allowing me to create dynamic, responsive designs that captivate users. My meticulous attention to detail and steadfast commitment to timely project delivery have earned me a reputation for excellence in the industry.
+<h3 align="left">As an accomplished Full Stack Developer, I possess a wealth of knowledge in Full Stack Developer(MERN) allowing me to create dynamic, responsive designs that captivate users. My meticulous attention to detail and steadfast commitment to timely project delivery have earned me a reputation for excellence in the industry. </h3>
 
-I constantly stay abreast of the latest technological advancements in the field, implementing cutting-edge solutions that push the boundaries of what's possible. If you're seeking a visionary partner to bring your digital aspirations to fruition, look no further. Let's collaborate and make magic happen!</h3>
+<h3 align="left">I constantly stay abreast of the latest technological advancements in the field, implementing cutting-edge solutions that push the boundaries of what's possible. If you're seeking a visionary partner to bring your digital aspirations to fruition, look no further. Let's collaborate and make magic happen!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senior9&label=Profile%20views&color=0e75b6&style=flat" alt="senior9" /> </p>
 
