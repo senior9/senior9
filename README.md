@@ -1,6 +1,6 @@
 
 
-<img src="Abhishek.png" alt=""> </img>
+<img src="Abhishek.gif" alt=""> </img>
 <h3 align="center">I've been developing my skillset over the past 2 years and I have knowledge of JavaScript, React.js, Node.js, Next Js, and MongoDB. I believe I am ready to contribute to a team and am looking for opportunities. I am also interested in connecting with like-minded people to improve my skills and share interests and I am interested in exploring the fields of Data Science, and Machine Learning, and I am open to opportunities for the same.👨‍💻 working remotely since 2020 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senior9&label=Profile%20views&color=0e75b6&style=flat" alt="senior9" /> </p>
