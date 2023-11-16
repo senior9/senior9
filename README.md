@@ -1,32 +1,6 @@
 
 
 
-
-
-
-  <div align="center" width="50">
-<img src="https://i.ibb.co/rdFwSCF/animation-640-ldnuvqc3.gif" href="https://github.com/senior9" alt="CoDiNg RocKs"  width="550"/><br> 
-  <div/>
-
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
-
-<div align="center">
-  To My Personal Github Profile
-</div>
-
-<h3 align="center">
-<a href="https://abhishek-portfolio-ecru.vercel.app/"> Portfolio
-<img src="https://i.ibb.co/S0bkvyn/animation-200-ldntioh8.gif" alt="Visit homepage" align="center">
-</a>
-</h3>
-
-<div align="center"><b>
-Simplicity Is the Key Of My Success
-  </b>
-</div>
-
 <h3 align="center">I've been developing my skillset over the past 2 years and I have knowledge of JavaScript, React.js, Node.js, Next Js, and MongoDB. I believe I am ready to contribute to a team and am looking for opportunities. I am also interested in connecting with like-minded people to improve my skills and share interests and I am interested in exploring the fields of Data Science, and Machine Learning, and I am open to opportunities for the same.👨‍💻 working remotely since 2020 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senior9&label=Profile%20views&color=0e75b6&style=flat" alt="senior9" /> </p>
